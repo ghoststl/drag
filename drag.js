@@ -7,5 +7,9 @@ function drag(id){
 		var ev = ev || event;
 		var disX = ev.clientX;
 		var disY = ev.clientY;
+		document.onmousemove = function(){
+			var x = 10;
+			var y = 20;
+		}
 	}
 }
