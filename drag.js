@@ -16,5 +16,9 @@ function drag(id){
 		var x = 70;
 		var y = 80;
 	}
+<<<<<<< HEAD
 	var arr = 55;
+=======
+	var arr = 66;
+>>>>>>> new1
 }
