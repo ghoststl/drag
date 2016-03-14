@@ -12,4 +12,8 @@ function drag(id){
 			var y = 20;
 		}
 	}
+	document.onmousemove = function(){
+		var x = 70;
+		var y = 80;
+	}
 }
