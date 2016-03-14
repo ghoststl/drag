@@ -8,4 +8,8 @@ function drag(id){
 		var disX = ev.clientX;
 		var disY = ev.clientY;
 	}
+	document.onmousemove = function(){
+		var x = 70;
+		var y = 80;
+	}
 }
