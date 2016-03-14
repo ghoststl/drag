@@ -16,4 +16,5 @@ function drag(id){
 		var x = 70;
 		var y = 80;
 	}
+	var arr = 66;
 }
